@@ -52,7 +52,6 @@ This is where you'll list the technologies from your CV. Pick the ones you use f
 ### 📊 My GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TomKenison162&show_icons=true&locale=en&theme=tokyonight" alt="TomKenison162's GitHub Stats" />
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomKenison162&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TomKenison162's Top Languages" />
 </p>
