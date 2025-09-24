@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Thomas Kenison</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,16 +7,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[A Technology You're Learning]**
-- 👯 I’m looking to collaborate on **[Types of Projects]**
-- 🤔 I’m looking for help with **[A Challenge You're Facing]**
-- 💬 Ask me about **[Topics You Know Well]**
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
 
 ---
 
