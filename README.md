@@ -81,8 +81,3 @@ This is where you'll list the technologies from your CV. Pick the ones you use f
 
 --- 
 
-### 🐍 Watch a snake eat my contributions!
-
-<p align="center">
-  <img src="https://github.com/TomKenison162/TomKenison162/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
