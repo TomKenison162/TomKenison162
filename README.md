@@ -1,3 +1,14 @@
+<div align="center">
+https://github.com/ThomasKenison/ThomasKenison/blob/main/assets/github-header.png?raw=true
+
+Computer Science & AI Student • OpenCV Specialist • Future Software Engineer
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
+https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader
+
+</div>
 👨‍💻 About Me
 python
 #!/usr/bin/env python3
@@ -103,3 +114,75 @@ Features: Aerospace compliance • RAG optimization • 40% reduction in follow-
 Tech: C++, Python, LangChain, Vector Databases, REST APIs
 https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white
 
+📈 Weekly Development Analytics
+text
+💻 This Week I Code In:
+Python      12 hrs 30 mins  ████████████░░░░░░░░░   65.2%
+Java        3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   17.0%
+JavaScript  1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    9.1%
+C++         45 mins         █░░░░░░░░░░░░░░░░░░░░    3.9%
+Other       30 mins         ░░░░░░░░░░░░░░░░░░░░░    2.6%
+📊 Monthly Progress:
+
+Commits: 127
+
+Pull Requests: 8
+
+Issues Closed: 12
+
+Repositories Contributed To: 3
+
+🏆 Achievements & Education
+🎓 Education
+University of Bath | BSc (Hons) Computer Science and AI | Sep 2024 – Jun 2028
+
+Current Average: 83% (First Class Honours)
+
+Award: Netcraft Sponsored Award (Top 10 in Cohort)
+
+Relevant Modules: Algorithms, AI, Computer Vision, Distributed Systems
+
+Queen Ethelburga's College | A-Levels: A*AAAA (Maths, Physics, CS, Geography, Further Maths)
+
+🏅 Certifications & Awards
+Google Cloud Associate - Cloud Engineering (In Progress)
+
+Netcraft Award 2024 - Academic Excellence in Computer Science
+
+First Class Honours - Maintained throughout degree
+
+📝 Latest Blog Posts & Activity
+<!-- BLOG-POST-LIST:START -->
+🚀 Just deployed my license plate detection system with 94% accuracy!
+
+📚 Writing a tutorial on real-time OpenCV processing
+
+🔧 Contributing to open-source computer vision projects
+
+<!-- BLOG-POST-LIST:END -->
+🤝 Open Source Contributions
+I believe in giving back to the community. Recent contributions:
+
+OpenCV - Improved documentation for real-time processing
+
+Awesome Python - Added computer vision resources
+
+Local Projects - All my projects are open-source!
+
+📫 Let's Connect!
+<div align="center">
+https://img.shields.io/badge/LinkedIn-Thomas_Kenison-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-tpjk21@bath.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Portfolio-thomaskenison.com-000000?style=for-the-badge&logo=About.me&logoColor=white
+https://img.shields.io/badge/GitHub-ThomasKenison-181717?style=for-the-badge&logo=github&logoColor=white
+
+💼 Always open to new opportunities and collaborations!
+
+https://komarev.com/ghpvc/?username=thomaskenison&color=blue&style=for-the-badge&label=PROFILE+VIEWS
+
+</div>
+<div align="center">
+⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+Last Updated: {{ CURRENT_DATE }}
+
+</div>
