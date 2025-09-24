@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=[TomKenison162]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -70,13 +70,13 @@ This is where you'll list the technologies from your CV. Pick the ones you use f
 ### 📊 My GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&locale=en&theme=tokyonight" alt="[YOUR_USERNAME]'s GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TomKenison162]&show_icons=true&locale=en&theme=tokyonight" alt="[TomKenison162]'s GitHub Stats" />
     <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR_USERNAME]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[YOUR_USERNAME]'s Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TomKenison162]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[TomKenison162]'s Top Languages" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight" alt="[YOUR_USERNAME]'s GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[TomKenison162]&theme=tokyonight" alt="[TomKenison162]'s GitHub Streak" />
 </p>
 
 --- 
@@ -84,5 +84,5 @@ This is where you'll list the technologies from your CV. Pick the ones you use f
 ### 🐍 Watch a snake eat my contributions!
 
 <p align="center">
-  <img src="https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/[TomKenison162]/[TomKenison162]/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
