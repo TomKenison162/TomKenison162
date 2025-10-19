@@ -13,7 +13,7 @@
 
 ### 🛠️ My Tech Stack
 
-This is where you'll list the technologies from your CV. Pick the ones you use from the examples below or add your own!
+
 
 #### **Frontend**
 <p align="left"> 
