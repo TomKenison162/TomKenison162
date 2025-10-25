@@ -59,12 +59,7 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomKenison162&theme=tokyonight" alt="TomKenison162's GitHub Streak" />
 </p>
-graph TD
-    subgraph "Input & Preprocessing (train / predict)"
-        X[<b>Input Data (X)</b><br>Shape: (n_samples, n_features)]
-        Norm[<b>Standardization (Z-score)</b><br>X_norm = (X - self.mean) / self.std<br>Shape: (n_features, n_samples)]
-        X -->|X.T| Norm
-    end
+
 
 
 --- 
