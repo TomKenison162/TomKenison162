@@ -68,6 +68,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomKenison162&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TomKenison162's Top Languages" />
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomKenison162&theme=tokyonight" alt="TomKenison162's GitHub Streak" />
-</p>
+
