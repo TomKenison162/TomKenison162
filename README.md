@@ -1,66 +1,73 @@
-<h1 align="center">Hi 👋, I'm Thomas Kenison</h1>
+<h1 align="center">Hi, I'm Tom Kenison </h1>
+<h3 align="center">CS & AI student @ University of Bath · Cloud Engineer Intern @ HPE</h3>
+
 
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/tom-kenison-82b108265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tpjk21@bath.ac.uk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=TomKenison162&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
+### 🚀 What I'm working on
+
+- **Cloud Engineer Intern @ HPE CloudPhysics** — backend services (Go/Python/Kubernetes) and predictive
+  modelling over compute/storage/memory telemetry for hybrid-cloud right-sizing recommendations.
+- **[In-Kernel Network Intrusion Detection](https://github.com/TomKenison162/ebpf-tests)** — an ML packet
+  classifier running inside the Linux kernel via eBPF/XDP: ~800k packets/sec on one CPU core, 0.95 macro-F1
+  on CIC-IDS2017, and a sparse leaf-table encoding that compresses the model's kernel-memory footprint 57,000×.
+- Previously: data engineering internship building a serverless ETL pipeline processing 60k+ weekly
+  transactions, and an AI-testing internship on generative unit-test synthesis for safety-critical (DO-178C) systems.
 
 ---
 
+### 🛠️ Tech Stack
 
-### 🛠️ My Tech Stack
+**Languages:** Python · Go · C/C++ · Java · TypeScript/JavaScript · SQL
 
+**Systems & Infra:** Linux Kernel · eBPF/XDP · Kubernetes · Docker · Terraform · AWS · GCP · Azure · Git/CI
 
+**ML & Data:** PyTorch · scikit-learn · XGBoost · LightGBM · Pandas · LangChain/RAG
 
-#### **Frontend**
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
-
-#### **Backend**
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-</p>
-
-#### **Database & Caching**
-<p align="left">
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-#### **DevOps & Cloud**
-<p align="left"> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a> 
-    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="36" height="36"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📌 Pinned work
+
+| Project | What it does |
+|---|---|
+| [**ebpf-tests**](https://github.com/TomKenison162/ebpf-tests) | ML-based intrusion detection running in-kernel via eBPF/XDP at line rate |
+| **IEEE-CIS Fraud Detection** | Top 13% Kaggle solution using engineered transaction features + gradient-boosted ensembles |
+
+*(Pin these two on your GitHub profile itself — click "Customize your pins" above your repo list — so they show as cards above this README.)*
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-    <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomKenison162&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TomKenison162's Top Languages" />
 </p>
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomKenison162&theme=tokyonight" alt="TomKenison162's GitHub Streak" />
 </p>
-
-
-
---- 
-
