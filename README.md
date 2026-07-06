@@ -58,7 +58,6 @@
 | [**ebpf-tests**](https://github.com/TomKenison162/ebpf-tests) | ML-based intrusion detection running in-kernel via eBPF/XDP at line rate |
 | **IEEE-CIS Fraud Detection** | Top 13% Kaggle solution using engineered transaction features + gradient-boosted ensembles |
 
-*(Pin these two on your GitHub profile itself — click "Customize your pins" above your repo list — so they show as cards above this README.)*
 
 ---
 
