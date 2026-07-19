@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 What I'm working on
+### What I'm working on
 
 - **Cloud Engineer Intern @ HPE CloudPhysics** — backend services (Go/Python/Kubernetes) and predictive
   modelling over compute/storage/memory telemetry for hybrid-cloud right-sizing recommendations.
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** Python · Go · C/C++ · Java · TypeScript/JavaScript · SQL
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 📌 Pinned work
+### Pinned work
 
 | Project | What it does |
 |---|---|
